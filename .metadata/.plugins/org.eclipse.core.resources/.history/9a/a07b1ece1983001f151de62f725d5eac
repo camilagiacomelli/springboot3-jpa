@@ -1,0 +1,5 @@
+package projectwebservices.course.resources;
+
+public class UserResource {
+
+}

@@ -1,0 +1,5 @@
+package projectwebservices.course.entites;
+
+public class User {
+
+}
